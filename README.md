@@ -3,3 +3,4 @@
 
 ## Table of Contents
 - Installing R Server
+- VPC IP Addresses
