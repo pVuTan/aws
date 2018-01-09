@@ -1,6 +1,6 @@
 # VPC IP Addresses
 *Write the IP addresses of the VPC Network as shown on diagram*
-![VPC Network](/VPC%20IP%20Addresses/VPC%20Network0.jpg)
+![VPC Network](/VPC%20IP%20Addresses/VPC%20Network0.JPG)
 
 ## IP Addresses(IPv4)
   - VPC - 10.0.0.0/16
@@ -19,7 +19,7 @@
         
  ## Network Diagram
  Network Diagram with IP Addresses and Route Tables
- ![VPC Network Diagram](/VPC%20IP%20Addresses/VPC%20Network.jpg)
+![VPC Network](/VPC%20IP%20Addresses/VPC%20Network.JPG)
         
 # References
 - https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html
