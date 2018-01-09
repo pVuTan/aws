@@ -1,6 +1,6 @@
 # VPC IP Addresses
-*Write the IP addresses of the VPC Network as shown on diagram
-
+*Write the IP addresses of the VPC Network as shown on diagram*
+![VPC Network](VPC%20IP%20Addresses/VPC%20Network0.jpg)
 
 ## IP Addresses(IPv4)
   - VPC - 10.0.0.0/16
@@ -16,6 +16,10 @@
       - VPC subnet 4 - 10.0.4.0/24
         - EC2 Instance y - 10.0.4.1
         - EC2 Instance z - 10.0.4.2
+        
+ ## Network Diagram
+ Network Diagram with IP Addresses and Route Tables
+ ![VPC Network Diagram](VPC%20IP%20Addresses/VPC%20Network.jpg)
         
 # References
 - https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html
