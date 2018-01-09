@@ -39,7 +39,7 @@ echo ****:******** | chpasswd
 
 ### Run R Server
 
-![Run R Server](/Installing R Server/Run R Server.png)
+![Run R Server]("Installing R Server/Run R Server.png")
 
 
 ### Alternative: R Studio Server AMI
