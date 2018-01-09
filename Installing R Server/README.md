@@ -37,9 +37,12 @@ echo ****:******** | chpasswd
     - Added port 8787 – for RStudio Server
 8.	Re-used RosettaHub Key Pair
 
+### Run R Server
+
+![Run R Server](/Installing R Server/Run R Server.png)
 
 
-### R Studio Server AMI
+### Alternative: R Studio Server AMI
 I came across a R Studio Server AMI found in Community AMI. It is maintained by Louis Aslett with pre-installed R, RStudio Server, Julia and CUDA. I plan to use this AMI for future R needs to reduce set-up time and cost.
 
 ### References:
